@@ -1,0 +1,3 @@
+/home/siyu/graphics/mine/src3/build/CMakeFiles/rebuild_cache.dir
+/home/siyu/graphics/mine/src3/build/CMakeFiles/edit_cache.dir
+/home/siyu/graphics/mine/src3/build/CMakeFiles/PhotonMapping.dir
